@@ -1,0 +1,8 @@
+Cory Pritchard:
+  name   : "Cory Pritchard"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Software Engineer and Developer Advocate. Creator of this site!"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/GarageParty"
