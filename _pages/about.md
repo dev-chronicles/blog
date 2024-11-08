@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+author: Cory Pritchard
 ---
 
 ### Welcome to Dev Chronicles!
