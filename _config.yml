@@ -53,6 +53,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+author:
+  name   : "Cory Pritchard"
+
 footer:
   links:
     - label: "GitHub"
