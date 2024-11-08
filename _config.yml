@@ -18,6 +18,7 @@ repository: dev-chronicles/blog
 github_username: garageparty
 minimal_mistakes_skin: dark
 search: true
+logo: "/assets/images/dev_chronicles.png"
 
 # Build settings
 markdown: kramdown
