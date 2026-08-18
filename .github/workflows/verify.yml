@@ -3,6 +3,9 @@ name: Verify
 on:
   push:
 
+permissions:
+  contents: read
+
 jobs:
   call-build:
     uses: ./.github/workflows/build.yml
